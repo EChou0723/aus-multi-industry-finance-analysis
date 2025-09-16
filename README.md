@@ -8,6 +8,14 @@
 - notebooks/ 或 scripts/：數據自動化處理、回歸分析程式
 - reports/：主要結論／圖表／ppt／作品集佐證
 
+
+- data/：原始數據與清理後Excel檔案
+  - Advanced_Managerial_Finance.xlsx：澳洲多家上市公司歷史數據
+  - Group_12_JB_HI-FI_data.xlsx：JB Hi-Fi 深度財務分析數據
+- notebooks/ 或 scripts/：數據自動化處理、回歸分析程式
+- reports/：主要結論／圖表／ppt／作品集佐證
+
+
 ## 亮點與技能 / Highlights & Skills
 - 橫跨金融、保險、零售、航空產業的市場數據處理與比較
 - 金融計量模型 (如 Beta, CAPM)
