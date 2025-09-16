@@ -15,8 +15,8 @@
 - 輸出可直接用於履歷或作品集的分析摘要圖與結果
 
 ## Demo
-![](./reports/your_dashboard_image.png)
- <!-- 上傳一張成果圖再貼在這，效果佳 -->
+![](./專案圖片.png)
+
 
 ## 聯絡方式 / Contact
 聯繫：tg0977068715@gmail.com
