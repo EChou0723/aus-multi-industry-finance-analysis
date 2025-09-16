@@ -1,30 +1,28 @@
-# aus-multi-industry-finance-analysis
-
-## 專案簡介 / Project Overview
-本專案蒐集與分析澳洲上市公司（Medibank, JB Hi-Fi, Qantas, Telstra）及ASX200指數，以Excel/Python進行數據清理、日報酬率計算、CAPM回歸、Beta分析及多角度產業績效比較。
-
-## 資料結構 / Repository Structure
-- data/：原始數據與清理後Excel檔案
-- notebooks/ 或 scripts/：數據自動化處理、回歸分析程式
-- reports/：主要結論／圖表／ppt／作品集佐證
-
-
-- data/：原始數據與清理後Excel檔案
-  - Advanced_Managerial_Finance.xlsx：澳洲多家上市公司歷史數據
-  - Group_12_JB_HI-FI_data.xlsx：JB Hi-Fi 深度財務分析數據
-- notebooks/ 或 scripts/：數據自動化處理、回歸分析程式
-- reports/：主要結論／圖表／ppt／作品集佐證
-
 
 ## 亮點與技能 / Highlights & Skills
-- 橫跨金融、保險、零售、航空產業的市場數據處理與比較
-- 金融計量模型 (如 Beta, CAPM)
-- 數據自動化與Python/Excel混合應用
-- 輸出可直接用於履歷或作品集的分析摘要圖與結果
+- **跨產業數據整合**：橫跨保險、零售、航空、電信產業的市場數據處理與比較分析
+- **金融計量建模**：熟練運用 Beta 係數、CAPM 模型、回歸分析等金融計量工具
+- **程式化數據處理**：Python/Excel 混合應用，實現數據自動化清理與分析流程
+- **視覺化呈現**：製作專業儀表板與分析圖表，適用於履歷作品集與業務報告
+- **風險評估能力**：能進行市場風險分析、資產定價與投資組合績效評比
+
+## 技術棧 / Technology Stack
+- **數據處理**：Python (Pandas, NumPy), Excel VBA
+- **統計分析**：回歸分析、時間序列分析、金融計量模型
+- **視覺化工具**：Matplotlib, Seaborn, Excel Charts
+- **版本控制**：Git, GitHub
 
 ## Demo
 ![](./專案圖片.png)
+*專案成果展示：澳洲多產業上市公司綜合分析儀表板*
 
+## 專案成果 / Key Deliverables
+- 四大產業（保險、零售、航空、電信）績效比較分析
+- ASX200 指數與個股相關性研究
+- 自動化數據處理與回歸分析工具
+- 專業級分析報告與視覺化圖表
 
 ## 聯絡方式 / Contact
-聯繫：tg0977068715@gmail.com
+📧 Email: tg0977068715@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/emma-chou-2592991b2/
+💼 作品集: 歡迎查看此專案展示我的金融數據分析能力
