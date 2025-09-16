@@ -25,4 +25,3 @@
 ## 聯絡方式 / Contact
 📧 Email: tg0977068715@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/emma-chou-2592991b2/
-💼 作品集: 歡迎查看此專案展示我的金融數據分析能力
